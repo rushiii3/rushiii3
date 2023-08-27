@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on social media clone and SuperVision of Exam <br>🌱 I’m currently learning about React, Express, MongoDB. <br>💬 Ask me about HTML, CSS, Jquery, PHP, React, Express, MongoDB. Basics about programming languages such as Python, Java, C, C++,etc.<br> 
 
 
 # 💻 Tech Stack:
