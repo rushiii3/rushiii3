@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-hrushikesh--shinde-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](https://hrushikesh-shinde-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hrushikesh--shinde-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrushikesh-shinde-developer/)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019ccd33-4310-73b7-8223-264faac08c09)
-[![Mail](https://img.shields.io/badge/Email-shindehrushi99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrushiop@gmail.com)
+[![Mail](https://img.shields.io/badge/Email-hrushiop@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrushiop@gmail.com)
 
 </div>
 
