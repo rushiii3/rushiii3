@@ -66,6 +66,8 @@
 
 | Post | Category | Date |
 |------|----------|------|
+| 📖 [Cryptography Fundamentals: Encryption, Hashing, Steganography & Ciphers (2026)](https://hrushikesh-shinde-portfolio.vercel.app/blog/cryptography-fundamentals) | Fundamentals | May 2026 |
+| 📖 [How Zod's .refine() Can Cause a Denial of Service — And How to Fix It (2026)](https://hrushikesh-shinde-portfolio.vercel.app/blog/zod-refine-dos-vulnerability) | Research | May 2026 |
 | 📖 [CIA Triad, Authentication & Authorization in Cybersecurity (2026)](https://hrushikesh-shinde-portfolio.vercel.app/blog/cia-triad-authentication-authorization) | Fundamentals | Apr 2026 |
 | 📖 [Information Security Concepts: Risk, Vulnerabilities, Threats & Controls (2026)](https://hrushikesh-shinde-portfolio.vercel.app/blog/information-security-concepts) | Fundamentals | Mar 2026 |
 | 📖 [Burp Suite for HTB & CTF Players: Complete Guide (2026)](https://hrushikesh-shinde-portfolio.vercel.app/blog/burp-suite-for-htb-ctf-players) | Tools | Mar 2026 |
