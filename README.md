@@ -101,12 +101,18 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=rushiii3&theme=codeSTACKr&hide_border=true" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+
+<!-- <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%"> -->
+<img src="https://count.getloli.com/get/@rushiii3?theme=rule34" width="100%"/>
+
+
+<!-- <div align="center">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushiii3&show_icons=true&theme=codeSTACKr&hide_border=true&card_width=500" />
     <img height=200 align="center" src="https://github-contributor-stats.vercel.app/api?username=rushiii3&limit=5&theme=codeSTACKr&hide_border=true&combine_all_yearly_contributions=true" />
-</div>
+</div> -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
@@ -114,10 +120,5 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<div align="center">
-
-![](https://visitcount.itsvg.in/api?id=rushiii3&icon=0&color=0)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
